@@ -16,7 +16,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Thing 1 (Test)
 
 - Thing 2
 
