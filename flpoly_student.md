@@ -4,20 +4,18 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Object Oriented Programing
 
-- Course 2
+- Discrete Mathematics
 
-- Course 3
+- Operations Research
 
-- Course 4
+- Intoduction to Data Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1 (Test)
+- Learning new things
 
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Playing vidogames and table top games
